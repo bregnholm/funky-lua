@@ -1,1 +1,1 @@
-# funky-lua
+# funky-lu - at it's best
